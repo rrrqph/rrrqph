@@ -1,4 +1,5 @@
 ## Hello, I'm Michelle Raphael 💤
+An Undergraduate Student majoring in Computer Science.
 <!--
 **rrrqph/rrrqph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
