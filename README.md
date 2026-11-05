@@ -1,13 +1,12 @@
 ## Hello, I'm Michelle Raphael 💤
-An Undergraduate Student majoring in Computer Science.
 
-
-
+<br>
 #### About me 
 ***
-a curious individual, drawn to the quiet complexity behind how things work.
+An undergraduate computer science student who is drawn to the quiet complexity behind how things work.
 
 
+<br>
 #### Currently exploring
 ***
 <p>
