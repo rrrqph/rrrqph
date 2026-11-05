@@ -1,19 +1,25 @@
 ## Hello, I'm Michelle Raphael 💤
 An Undergraduate Student majoring in Computer Science.
 
-<div align="center">
+
 
 #### About me
 
 a curious individual, drawn to the quiet complexity behind how things work.
 
 
-</div>
-
 #### Currently exploring
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,php,c" />
+</p>
+
+#### Social
+
+<p>
+  <a href="www.linkedin.com/in/michelle-r-8ba605279">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 </p>
 
 
