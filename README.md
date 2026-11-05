@@ -1,12 +1,12 @@
 ## Hello, I'm Michelle Raphael 💤
 
-<br>
+
 #### About me 
 ***
 An undergraduate computer science student who is drawn to the quiet complexity behind how things work.
 
 
-<br>
+
 #### Currently exploring
 ***
 <p>
