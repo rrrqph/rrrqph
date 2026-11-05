@@ -6,14 +6,16 @@ An Undergraduate Student majoring in Computer Science.
 About me
 a curious individual, drawn to the quiet complexity behind how things work.
 
-</div>
-### currently exploring
+Currently exploring
 
 #### languages & code
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,php,c" />
 </p>
+
+</div>
+
 
 
 <!--
