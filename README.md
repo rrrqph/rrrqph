@@ -1,19 +1,19 @@
 ## Hello, I'm Michelle Raphael 💤
 
 
-## About me 
+### About me 
 
 An undergraduate computer science student who is drawn to the quiet complexity behind how things work.
 
 
 
-### Currently exploring
+#### Currently exploring
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,php,c,vscode,figma" />
 </p>
 
-#### Socials
+##### Socials
 
 <a href="https://www.linkedin.com/in/michelleraphael/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
