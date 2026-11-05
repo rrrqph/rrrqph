@@ -3,24 +3,18 @@ An Undergraduate Student majoring in Computer Science.
 
 
 
-#### About me
-
+#### About me 
+***
 a curious individual, drawn to the quiet complexity behind how things work.
 
 
 #### Currently exploring
-
+***
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,php,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,php,c,vscode,figma" />
 </p>
 
-#### Social
 
-<p>
-  <a href="www.linkedin.com/in/michelle-r-8ba605279">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-</p>
 
 
 
