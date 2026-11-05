@@ -3,18 +3,18 @@ An Undergraduate Student majoring in Computer Science.
 
 <div align="center">
 
-About me
+#### About me
+
 a curious individual, drawn to the quiet complexity behind how things work.
 
-Currently exploring
 
-#### languages & code
+</div>
+
+#### Currently exploring
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,php,c" />
 </p>
-
-</div>
 
 
 
