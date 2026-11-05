@@ -15,13 +15,15 @@ An undergraduate computer science student who is drawn to the quiet complexity b
 
 #### Socials
 
-<a href="www.linkedin.com/in/michelleraphael" target="_blank">
+<a href="https://www.linkedin.com/in/michelleraphael/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 &nbsp;
-<a href="" target="_blank">
+<a href="https://www.instagram.com/mchllrphl/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
+
+
 
 
 <!--
