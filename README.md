@@ -10,7 +10,7 @@ An undergraduate computer science student who is drawn to the quiet complexity b
 #### Currently exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,php,c,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,c,vscode,figma" />
 </p>
 
 #### Socials
