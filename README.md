@@ -1,7 +1,7 @@
 ## Hello, I'm Michelle Raphael 💤
 
 
-### About me 
+### About me
 
 An undergraduate computer science student who is drawn to the quiet complexity behind how things work.
 
